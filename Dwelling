@@ -1,8 +1,3 @@
-## Dwelling Practice
-
-[Run a program](https://pl.kotl.in/Ydn8mW1IQ?theme=darcula) - kotlin playground
-
- ```
 fun main() {
     // create object
     val squareCabin = SquareCabin(10)
@@ -60,4 +55,3 @@ class RoundTower(residents : Int) : RoundHut(residents){
     override val buildingMaterial = "Stone"
     override val capacity = 4
 }
- ```
